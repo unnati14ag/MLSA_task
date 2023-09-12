@@ -46,6 +46,7 @@ section img.background {
 }
 
 h1 {
+  color: #eee0c9;
   font-family: "Cormorant Garamond", serif;
   font-size: 7rem;
   font-weight: 400;
@@ -54,10 +55,12 @@ h1 {
 }
 
 h2 {
+  color: #f1c990;
+  opacity: .8;
   font-size: 2rem;
   font-weight: 400;
   margin: 0;
-  padding-top: 1rem;
+  padding-top: 2rem;
 }
 
 h3 {

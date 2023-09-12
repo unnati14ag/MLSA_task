@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/socials/coder's desk.jpg";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Learn DSA with me!",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Get started with DSA in JAVA.",
+    url: "https://github.com/unnati14ag/DSA-in-JAVA",
   },
   {
     title: "Web Development for Beginners",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Contributed my learnings and code to help others learn.",
+    url: "https://github.com/unnati14ag/Web-Development",
   },
   {
     title: "My Resume Site",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Created an online resume using only HTML and deployed to GitHub pages. Includes my experience and achievements.",
+    url: "https://unnati14ag.github.io/online-resume/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Movie Ticket Booking Application",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Exciting project idea that has the potential to simplify your movie-going experience and make it more enjoyable.",
+    url: "https://github.com/unnati14ag/Cloud-Performance-Tuning",
   },
 ];
 
